@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\AppliancesProcurementApp\AppliancesProcurementApp\obj\Debug\AppliancesProcurementApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AppliancesProcurementApp\AppliancesProcurementApp\obj\Debug\AppliancesProcurementApp.Properties.Resources.resources
+C:\Users\user\source\repos\AppliancesProcurementApp\AppliancesProcurementApp\obj\Debug\AppliancesProcurementApp.csproj.GenerateResource.cache
+C:\Users\user\source\repos\AppliancesProcurementApp\AppliancesProcurementApp\obj\Debug\AppliancesProcurementApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AppliancesProcurementApp\AppliancesProcurementApp\bin\Debug\AppliancesProcurementApp.exe.config
+C:\Users\user\source\repos\AppliancesProcurementApp\AppliancesProcurementApp\bin\Debug\AppliancesProcurementApp.exe
+C:\Users\user\source\repos\AppliancesProcurementApp\AppliancesProcurementApp\bin\Debug\AppliancesProcurementApp.pdb
+C:\Users\user\source\repos\AppliancesProcurementApp\AppliancesProcurementApp\obj\Debug\AppliancesProcurementApp.exe
+C:\Users\user\source\repos\AppliancesProcurementApp\AppliancesProcurementApp\obj\Debug\AppliancesProcurementApp.pdb
+C:\Users\user\source\repos\AppliancesProcurementApp\AppliancesProcurementApp\obj\Debug\AppliancesProcurement.MainForm.resources
