@@ -1,49 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\AppliancesProcurementApp\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\AppliancesProcurementApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E1BC524-6DC6-4A54-975E-C5D4079B0673}|AppliancesProcurementApp\\AppliancesProcurementApp.csproj|c:\\users\\user\\source\\repos\\appliancesprocurementapp\\appliancesprocurementapp\\addpurchaseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E1BC524-6DC6-4A54-975E-C5D4079B0673}|AppliancesProcurementApp\\AppliancesProcurementApp.csproj|c:\\users\\user\\desktop\\appliancesprocurementapp\\appliancesprocurementapp\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1BC524-6DC6-4A54-975E-C5D4079B0673}|AppliancesProcurementApp\\AppliancesProcurementApp.csproj|solutionrelative:appliancesprocurementapp\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1BC524-6DC6-4A54-975E-C5D4079B0673}|AppliancesProcurementApp\\AppliancesProcurementApp.csproj|c:\\users\\user\\desktop\\appliancesprocurementapp\\appliancesprocurementapp\\addpurchaseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E1BC524-6DC6-4A54-975E-C5D4079B0673}|AppliancesProcurementApp\\AppliancesProcurementApp.csproj|solutionrelative:appliancesprocurementapp\\addpurchaseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E1BC524-6DC6-4A54-975E-C5D4079B0673}|AppliancesProcurementApp\\AppliancesProcurementApp.csproj|C:\\Users\\user\\source\\repos\\AppliancesProcurementApp\\appliancesprocurementapp\\addpurchaseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3E1BC524-6DC6-4A54-975E-C5D4079B0673}|AppliancesProcurementApp\\AppliancesProcurementApp.csproj|C:\\Users\\user\\Desktop\\AppliancesProcurementApp\\appliancesprocurementapp\\addpurchaseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3E1BC524-6DC6-4A54-975E-C5D4079B0673}|AppliancesProcurementApp\\AppliancesProcurementApp.csproj|solutionrelative:appliancesprocurementapp\\addpurchaseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E1BC524-6DC6-4A54-975E-C5D4079B0673}|AppliancesProcurementApp\\AppliancesProcurementApp.csproj|C:\\Users\\user\\source\\repos\\AppliancesProcurementApp\\appliancesprocurementapp\\addpurchaseform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E1BC524-6DC6-4A54-975E-C5D4079B0673}|AppliancesProcurementApp\\AppliancesProcurementApp.csproj|C:\\Users\\user\\Desktop\\AppliancesProcurementApp\\appliancesprocurementapp\\addpurchaseform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E1BC524-6DC6-4A54-975E-C5D4079B0673}|AppliancesProcurementApp\\AppliancesProcurementApp.csproj|solutionrelative:appliancesprocurementapp\\addpurchaseform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E1BC524-6DC6-4A54-975E-C5D4079B0673}|AppliancesProcurementApp\\AppliancesProcurementApp.csproj|C:\\Users\\user\\source\\repos\\AppliancesProcurementApp\\appliancesprocurementapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3E1BC524-6DC6-4A54-975E-C5D4079B0673}|AppliancesProcurementApp\\AppliancesProcurementApp.csproj|C:\\Users\\user\\Desktop\\AppliancesProcurementApp\\appliancesprocurementapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3E1BC524-6DC6-4A54-975E-C5D4079B0673}|AppliancesProcurementApp\\AppliancesProcurementApp.csproj|solutionrelative:appliancesprocurementapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E1BC524-6DC6-4A54-975E-C5D4079B0673}|AppliancesProcurementApp\\AppliancesProcurementApp.csproj|C:\\Users\\user\\source\\repos\\AppliancesProcurementApp\\appliancesprocurementapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E1BC524-6DC6-4A54-975E-C5D4079B0673}|AppliancesProcurementApp\\AppliancesProcurementApp.csproj|C:\\Users\\user\\Desktop\\AppliancesProcurementApp\\appliancesprocurementapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E1BC524-6DC6-4A54-975E-C5D4079B0673}|AppliancesProcurementApp\\AppliancesProcurementApp.csproj|solutionrelative:appliancesprocurementapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E1BC524-6DC6-4A54-975E-C5D4079B0673}|AppliancesProcurementApp\\AppliancesProcurementApp.csproj|C:\\Users\\user\\source\\repos\\AppliancesProcurementApp\\appliancesprocurementapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3E1BC524-6DC6-4A54-975E-C5D4079B0673}|AppliancesProcurementApp\\AppliancesProcurementApp.csproj|C:\\Users\\user\\Desktop\\AppliancesProcurementApp\\appliancesprocurementapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3E1BC524-6DC6-4A54-975E-C5D4079B0673}|AppliancesProcurementApp\\AppliancesProcurementApp.csproj|solutionrelative:appliancesprocurementapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E1BC524-6DC6-4A54-975E-C5D4079B0673}|AppliancesProcurementApp\\AppliancesProcurementApp.csproj|C:\\Users\\user\\source\\repos\\AppliancesProcurementApp\\appliancesprocurementapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E1BC524-6DC6-4A54-975E-C5D4079B0673}|AppliancesProcurementApp\\AppliancesProcurementApp.csproj|C:\\Users\\user\\Desktop\\AppliancesProcurementApp\\appliancesprocurementapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E1BC524-6DC6-4A54-975E-C5D4079B0673}|AppliancesProcurementApp\\AppliancesProcurementApp.csproj|solutionrelative:appliancesprocurementapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E1BC524-6DC6-4A54-975E-C5D4079B0673}|AppliancesProcurementApp\\AppliancesProcurementApp.csproj|C:\\Users\\user\\source\\repos\\AppliancesProcurementApp\\appliancesprocurementapp\\dbconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E1BC524-6DC6-4A54-975E-C5D4079B0673}|AppliancesProcurementApp\\AppliancesProcurementApp.csproj|C:\\Users\\user\\Desktop\\AppliancesProcurementApp\\appliancesprocurementapp\\dbconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E1BC524-6DC6-4A54-975E-C5D4079B0673}|AppliancesProcurementApp\\AppliancesProcurementApp.csproj|solutionrelative:appliancesprocurementapp\\dbconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E1BC524-6DC6-4A54-975E-C5D4079B0673}|AppliancesProcurementApp\\AppliancesProcurementApp.csproj|C:\\Users\\user\\source\\repos\\AppliancesProcurementApp\\appliancesprocurementapp\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E1BC524-6DC6-4A54-975E-C5D4079B0673}|AppliancesProcurementApp\\AppliancesProcurementApp.csproj|C:\\Users\\user\\Desktop\\AppliancesProcurementApp\\appliancesprocurementapp\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E1BC524-6DC6-4A54-975E-C5D4079B0673}|AppliancesProcurementApp\\AppliancesProcurementApp.csproj|solutionrelative:appliancesprocurementapp\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E1BC524-6DC6-4A54-975E-C5D4079B0673}|AppliancesProcurementApp\\AppliancesProcurementApp.csproj|C:\\Users\\user\\source\\repos\\AppliancesProcurementApp\\appliancesprocurementapp\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E1BC524-6DC6-4A54-975E-C5D4079B0673}|AppliancesProcurementApp\\AppliancesProcurementApp.csproj|C:\\Users\\user\\Desktop\\AppliancesProcurementApp\\appliancesprocurementapp\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E1BC524-6DC6-4A54-975E-C5D4079B0673}|AppliancesProcurementApp\\AppliancesProcurementApp.csproj|solutionrelative:appliancesprocurementapp\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E1BC524-6DC6-4A54-975E-C5D4079B0673}|AppliancesProcurementApp\\AppliancesProcurementApp.csproj|C:\\Users\\user\\source\\repos\\AppliancesProcurementApp\\appliancesprocurementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E1BC524-6DC6-4A54-975E-C5D4079B0673}|AppliancesProcurementApp\\AppliancesProcurementApp.csproj|C:\\Users\\user\\Desktop\\AppliancesProcurementApp\\appliancesprocurementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E1BC524-6DC6-4A54-975E-C5D4079B0673}|AppliancesProcurementApp\\AppliancesProcurementApp.csproj|solutionrelative:appliancesprocurementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,35 +66,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AppliancesProcurementApp\\AppliancesProcurementApp\\Class1.cs",
+              "RelativeDocumentMoniker": "AppliancesProcurementApp\\Class1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\AppliancesProcurementApp\\AppliancesProcurementApp\\Class1.cs",
+              "RelativeToolTip": "AppliancesProcurementApp\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T08:54:32.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppliancesProcurementApp\\AppliancesProcurementApp\\MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AppliancesProcurementApp\\AppliancesProcurementApp\\MainForm.cs",
               "RelativeDocumentMoniker": "AppliancesProcurementApp\\MainForm.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\AppliancesProcurementApp\\AppliancesProcurementApp\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "AppliancesProcurementApp\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\source\\repos\\AppliancesProcurementApp\\AppliancesProcurementApp\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T15:31:31.34Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2026-03-02T15:31:31.34Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppliancesProcurementApp\\AppliancesProcurementApp\\LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AppliancesProcurementApp\\AppliancesProcurementApp\\LoginForm.cs",
               "RelativeDocumentMoniker": "AppliancesProcurementApp\\LoginForm.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\AppliancesProcurementApp\\AppliancesProcurementApp\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "AppliancesProcurementApp\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\source\\repos\\AppliancesProcurementApp\\AppliancesProcurementApp\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T15:27:41.143Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2026-03-02T15:27:41.143Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "DbConfig.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppliancesProcurementApp\\AppliancesProcurementApp\\DbConfig.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AppliancesProcurementApp\\AppliancesProcurementApp\\DbConfig.cs",
               "RelativeDocumentMoniker": "AppliancesProcurementApp\\DbConfig.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\AppliancesProcurementApp\\AppliancesProcurementApp\\DbConfig.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\AppliancesProcurementApp\\AppliancesProcurementApp\\DbConfig.cs",
               "RelativeToolTip": "AppliancesProcurementApp\\DbConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -98,23 +113,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AddPurchaseForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppliancesProcurementApp\\AppliancesProcurementApp\\AddPurchaseForm.cs",
+              "DocumentIndex": 2,
+              "Title": "AddPurchaseForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AppliancesProcurementApp\\AppliancesProcurementApp\\AddPurchaseForm.cs",
               "RelativeDocumentMoniker": "AppliancesProcurementApp\\AddPurchaseForm.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\AppliancesProcurementApp\\AppliancesProcurementApp\\AddPurchaseForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "AppliancesProcurementApp\\AddPurchaseForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "C:\\Users\\user\\Desktop\\AppliancesProcurementApp\\AppliancesProcurementApp\\AddPurchaseForm.cs [Design]",
+              "RelativeToolTip": "AppliancesProcurementApp\\AddPurchaseForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T15:35:54.209Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AddPurchaseForm.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppliancesProcurementApp\\AppliancesProcurementApp\\AddPurchaseForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AppliancesProcurementApp\\AppliancesProcurementApp\\AddPurchaseForm.cs",
               "RelativeDocumentMoniker": "AppliancesProcurementApp\\AddPurchaseForm.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\AppliancesProcurementApp\\AppliancesProcurementApp\\AddPurchaseForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\AppliancesProcurementApp\\AppliancesProcurementApp\\AddPurchaseForm.cs",
               "RelativeToolTip": "AppliancesProcurementApp\\AddPurchaseForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -123,24 +138,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "LoginForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppliancesProcurementApp\\AppliancesProcurementApp\\LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AppliancesProcurementApp\\AppliancesProcurementApp\\LoginForm.Designer.cs",
               "RelativeDocumentMoniker": "AppliancesProcurementApp\\LoginForm.Designer.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\AppliancesProcurementApp\\AppliancesProcurementApp\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\AppliancesProcurementApp\\AppliancesProcurementApp\\LoginForm.Designer.cs",
               "RelativeToolTip": "AppliancesProcurementApp\\LoginForm.Designer.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAswGcAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T15:29:34.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T15:29:34.573Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppliancesProcurementApp\\AppliancesProcurementApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AppliancesProcurementApp\\AppliancesProcurementApp\\Program.cs",
               "RelativeDocumentMoniker": "AppliancesProcurementApp\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\AppliancesProcurementApp\\AppliancesProcurementApp\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\AppliancesProcurementApp\\AppliancesProcurementApp\\Program.cs",
               "RelativeToolTip": "AppliancesProcurementApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -148,55 +162,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "LoginForm.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppliancesProcurementApp\\AppliancesProcurementApp\\LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AppliancesProcurementApp\\AppliancesProcurementApp\\LoginForm.cs",
               "RelativeDocumentMoniker": "AppliancesProcurementApp\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\AppliancesProcurementApp\\AppliancesProcurementApp\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\AppliancesProcurementApp\\AppliancesProcurementApp\\LoginForm.cs",
               "RelativeToolTip": "AppliancesProcurementApp\\LoginForm.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAwCAAAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T15:29:46.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T15:29:46.128Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AddPurchaseForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppliancesProcurementApp\\AppliancesProcurementApp\\AddPurchaseForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AppliancesProcurementApp\\AppliancesProcurementApp\\AddPurchaseForm.Designer.cs",
               "RelativeDocumentMoniker": "AppliancesProcurementApp\\AddPurchaseForm.Designer.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\AppliancesProcurementApp\\AppliancesProcurementApp\\AddPurchaseForm.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\AppliancesProcurementApp\\AppliancesProcurementApp\\AddPurchaseForm.Designer.cs",
               "RelativeToolTip": "AppliancesProcurementApp\\AddPurchaseForm.Designer.cs",
               "ViewState": "AgIAAD0AAAAAAAAAAADwv3wAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T15:36:10.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T15:36:10.035Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppliancesProcurementApp\\AppliancesProcurementApp\\MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AppliancesProcurementApp\\AppliancesProcurementApp\\MainForm.cs",
               "RelativeDocumentMoniker": "AppliancesProcurementApp\\MainForm.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\AppliancesProcurementApp\\AppliancesProcurementApp\\MainForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\AppliancesProcurementApp\\AppliancesProcurementApp\\MainForm.cs",
               "RelativeToolTip": "AppliancesProcurementApp\\MainForm.cs",
               "ViewState": "AgIAAD0AAAAAAAAAAAAmwHYAAACAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T15:34:56.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T15:34:56.221Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "MainForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppliancesProcurementApp\\AppliancesProcurementApp\\MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AppliancesProcurementApp\\AppliancesProcurementApp\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "AppliancesProcurementApp\\MainForm.Designer.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\AppliancesProcurementApp\\AppliancesProcurementApp\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\AppliancesProcurementApp\\AppliancesProcurementApp\\MainForm.Designer.cs",
               "RelativeToolTip": "AppliancesProcurementApp\\MainForm.Designer.cs",
               "ViewState": "AgIAABEAAAAAAAAAAADwv3MAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T15:35:05.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T15:35:05.52Z"
             }
           ]
         }

@@ -52,6 +52,7 @@
     <Compile Include="AddPurchaseForm.Designer.cs">
       <DependentUpon>AddPurchaseForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Class1.cs" />
     <Compile Include="DbConfig.cs" />
     <Compile Include="LoginForm.cs">
       <SubType>Form</SubType>
